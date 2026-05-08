@@ -19,7 +19,7 @@ Minha especialidade é acelerar o ciclo de desenvolvimento usando **LLMs, agente
 | Área | Tecnologias |
 |------|-------------|
 | **Backend & IA** | Python, FastAPI, LangChain, CrewAI |
-| **Mobile** | Flutter, Dart |
+| **Mobile** | Kotlin, Jetpack Compose, Android Nativo |
 | **Frontend** | React, Next.js, TypeScript |
 | **Automação** | Playwright, n8n, bots inteligentes |
 | **Infra** | Docker, PostgreSQL, Firebase |
@@ -28,17 +28,20 @@ Minha especialidade é acelerar o ciclo de desenvolvimento usando **LLMs, agente
 
 ## Projetos Destacados
 
+### 🤖 AgentHub Android
+Dashboard nativo Android para monitorar e controlar agentes/bots Python em tempo real. Kotlin + Jetpack Compose + Retrofit.
+
+### 📄 SmartDocs Pro Android
+App nativo que extrai dados estruturados de documentos usando IA e exporta Excel/PDF. Kotlin + Jetpack Compose + CameraX.
+
+### 📊 AutoDash Android
+Dashboard de controle de automações pessoais com métricas, logs e gráficos nativos. Kotlin + Jetpack Compose.
+
 ### 🤖 socialbot-ai
 Bot de automação para redes sociais com IA. Publica automaticamente no Twitter, Instagram e LinkedIn usando OpenAI e Hugging Face.
 
 ### 🎙️ voicescribe
-App Flutter de transcrição de áudio com IA. Grave, transcreva e exporte em TXT/PDF.
-
-### 🤖 nero-discord-bot
-Bot Discord modular multi-tenant com IA (Gemini 2.0), loja automatizada e whitelist Roblox.
-
-### 🎨 generative-py
-Arte generativa com Python — Sem IA, Apenas Matemática. Fractais, Flow Fields, Padrões Geométricos.
+App de transcrição de áudio com IA. Grave, transcreva e exporte em TXT/PDF.
 
 ---
 
